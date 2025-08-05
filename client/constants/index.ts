@@ -26,7 +26,7 @@ export const features = [
     },
     {
       title: 'Cost-Effective',
-      description: 'Get top-tier training without breaking the bank.',
+      description: 'Get top-tier training without breaking the bank. ',
       image: '/cost-effective.png',
     },
   ]
